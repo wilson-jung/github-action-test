@@ -1,0 +1,17 @@
+name: Wilson
+age: 33
+address: "hell: ddd"
+active: true
+key:
+  key: value
+  key2: 33
+arr:
+    - item1
+    - item2
+objArr:
+  - key: 3
+  - key: 5
+longText: |
+  asdljkfaksdfl;akjsd
+  asdfljkas;djfasdf
+  asdflkj;asdlj;k
